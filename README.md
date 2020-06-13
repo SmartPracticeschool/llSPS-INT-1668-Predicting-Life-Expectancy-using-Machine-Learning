@@ -6,4 +6,4 @@ The repository contains -
 2. Project report
 3. Dataset used for model
 4. Node- red flow in json format(IBM cloud service)
-5. machine learning regression model in notebook.
+5. machine learning regression model in ipynb.
